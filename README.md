@@ -47,7 +47,7 @@
 
 ### 🔗 Let's Connect
 
-- 📧 Email: **yourname@email.com**
+- 📧 Email: **enochbreman7@gmail.com**
 - 💼 LinkedIn: [Your LinkedIn](#)
 - 🌐 Portfolio: [Coming Soon!]
 
