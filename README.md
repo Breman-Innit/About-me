@@ -21,8 +21,7 @@
 | Area | Tools |
 |------|-------|
 | **Languages** | `HTML`, `CSS`, `JavaScript`, `Java`, `Python`, `C`, `SQL` |
-| **Frameworks** | `Django`, `React (learning)`, `Flask` |
-| **Tools** | `Git`, `GitHub`, `NetBeans`, `VS Code`, `Cisco Packet Tracer`, `Postman` |
+| **Tools** | `Git`, `GitHub`, `NetBeans`, `VS Code`, `Cisco Packet Tracer` |
 | **OS Knowledge** | `Windows`, `Linux basics`, `Networking`, `CPU Scheduling`, `Deadlocks` |
 
 ---
@@ -31,8 +30,7 @@
 
 - 🌐 **Personal Portfolio Website** – Modern, stylish, and futuristic design (Coming Soon!)
 - 🛍️ **Local Artifact E-commerce Store** – With search, cart system, payment, and animations
-- 💬 **Voice-Reactive Desktop App** – Transcribes speech and displays it as a dynamic wallpaper
-- 🧑‍💼 **Law Firm Website** – Fully responsive client showcase & contact platform
+
 
 ---
 
@@ -48,7 +46,6 @@
 ### 🔗 Let's Connect
 
 - 📧 Email: **enochbreman7@gmail.com**
-- 💼 LinkedIn: [Your LinkedIn](#)
 - 🌐 Portfolio: [Coming Soon!]
 
 ---
